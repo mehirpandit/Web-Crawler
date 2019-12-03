@@ -1,6 +1,6 @@
 import os
 
-
+print('4. start in general.py')
 # Each website you crawl is a separate project(folder)
 def create_project_dir(directory):
     if not os.path.exists(directory):

@@ -3,6 +3,7 @@ from link_finder import LinkFinder
 from general import *
 
 
+print('3. start in spider.py')
 class Spider:
     # Class variables (shared among all instances)
     project_name = ''

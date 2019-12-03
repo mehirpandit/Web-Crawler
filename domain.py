@@ -1,6 +1,7 @@
 from urllib.parse import urlparse
 
 
+print('2. start in domain.py')
 # Get domain name(example.com)
 def get_domain_name(url):
     try:

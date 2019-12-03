@@ -3,6 +3,7 @@ from urllib import parse
 
 
 # A new class that inherits HTMLParser
+print('5. start in link_finder.py')
 class LinkFinder(HTMLParser):
 
     # Initializer method
